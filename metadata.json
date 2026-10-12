@@ -1,0 +1,6 @@
+{
+  "name": "GigRise by ATOMORA",
+  "description": "An artisanal sketchbook marketplace for local event artists with escrow protection, Cancel-Proof Shield, BNPL GigCredit, and creator studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
